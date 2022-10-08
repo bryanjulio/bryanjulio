@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning JavaScript.
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/bryanjulio">
