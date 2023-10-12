@@ -25,3 +25,15 @@ Desenvolvedor Fullstack na [YEB - Inteligência de Mercado](https://www.yeb.com.
 - AJAX
 - Estrutura MVC
 
+## 📚 Aprendendo Atualmente
+
+Estou sempre disposto a aprender coisas novas. Atualmente, estou focando em:
+
+- 🚀 Aprofundar meus conhecimentos em Node.js e desenvolvimento interfaces com React.
+- 📦 Aprender mais sobre Docker e orquestração de contêineres com Kubernetes.
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bryanjulio&show_icons=true&theme=radical&rank_icon=github)
+
+Se você tiver alguma dúvida, sugestões ou gostaria de colaborar em algum projeto interessante, fique à vontade para entrar em contato! 😊
