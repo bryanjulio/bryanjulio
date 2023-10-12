@@ -1,27 +1,27 @@
-### Bem-vindo ao meu perfil do GitHub 👋
-###
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é Bryan tenho 22 anos, estou sempre em busca de novas tendências e tecnologias. Atualmente, trabalho como desenvolvedor fullstack na empresa YEB - Inteligência de Mercado.
+Meu nome é Bryan, tenho 22 anos e estou sempre em busca de novas tendências e tecnologias.
 
-### Tecnologias que eu tenho que eu frequentemente uso:
-• HTML
-• CSS
-• JavaScript
-• PHP
-• jQuery
-• Bootstrap
-•AJAX
-•API's
-•Estrutura MVC
+## 💼 Trabalho Atual
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-C:SS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+Desenvolvedor Fullstack na [YEB - Inteligência de Mercado](https://www.yeb.com.br/home2).
 
+## 🚀 Linguagens
 
+![HTML](https://img.shields.io/badge/HTML-5-red)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Python](https://img.shields.io/badge/Python-3-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellowgreen)
+![PHP](https://img.shields.io/badge/PHP-8.1-purple)
 
+## 🛠️ Bibliotecas e Frameworks
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5-blueviolet)
+![jQuery](https://img.shields.io/badge/jQuery-3.5-orange)
+
+## 🌟 Conceitos e Tecnologias
+
+- API's
+- AJAX
+- Estrutura MVC
 
