@@ -3,7 +3,7 @@
 
 Meu nome é Bryan tenho 22 anos, estou sempre em busca de novas tendências e tecnologias. Atualmente, trabalho como desenvolvedor fullstack na empresa YEB - Inteligência de Mercado.
 
-###Tecnologias que eu tenho que eu frequentemente uso:
+### Tecnologias que eu tenho que eu frequentemente uso:
 • HTML
 • CSS
 • JavaScript
