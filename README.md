@@ -7,6 +7,9 @@ Sobre mim
 👨‍💻 Meus principais interesses incluem [Front-end, Back-end e DevOps].
 🎯 Estou constantemente buscando maneiras de melhorar minhas habilidades técnicas e de programação.
 
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
+<i class="programming lang-ruby"></i>
 
 ###Tecnologias que eu Trabalho
 Linguagens de Programação: JavaScript, HTML, CSS, etc.
