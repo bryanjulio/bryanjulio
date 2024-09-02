@@ -4,7 +4,8 @@ Meu nome é Bryan, tenho 22 anos e estou sempre em busca de novas tendências e 
 
 ## 💼 Trabalho Atual
 
-Desenvolvedor Fullstack na [YEB - Inteligência de Mercado](https://www.yeb.com.br/home2).
+Desenvolvedor Fullstack na [YEB - Inteligência de Mercado](https://www.yeb.com.br/home2)
+
 Professional Profile -> ![Github](https://github.com/bryannrodrigues)
 
 ## 🚀 Linguagens
