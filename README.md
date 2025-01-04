@@ -1,10 +1,7 @@
 # 👋 Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é Bryan, tenho 23 anos e estou sempre em busca de novas tendências e tecnologias.
+Meu nome é Bryan
 
-## 💼 Trabalho Atual
-
-Desenvolvedor Fullstack Sênior na [YEB - Inteligência de Mercado](https://www.yeb.com.br/home2)
 
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) Professional Profile -> (https://github.com/bryannrodrigues)
 
