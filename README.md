@@ -1,41 +1,26 @@
-# 👋 Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é Bryan
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=402E7A&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B70F5&size=35&center=true&vCenter=true&width=1000&multiline=true&repeat=falso&random=falso&width=1000&height=100&lines=Hello+my+name+is+Bryan+Julio%F0%9F%91%8B;I'm+software+developer)](https://git.io/typing-svg)
 
 
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) Professional Profile -> (https://github.com/bryannrodrigues)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bryanjulio&show_icons=true&count_private=true&hide_border=true&title_color=4B70F5&icon_color=00bfbf&text_color=4C3BCF&bg_color=0d1117" alt="Bryan Julio github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjulio&layout=compact&hide_border=true&title_color=4B70F5&text_color=4C3BCF&bg_color=0d1117" />
+</div>
 
-## 🚀 Linguagens
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanjulio&bg_color=000000&color=4B70F5&line=3DC2EC&point=4B70F5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![HTML](https://img.shields.io/badge/HTML-5-red)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![Python](https://img.shields.io/badge/Python-3-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellowgreen)
-![PHP](https://img.shields.io/badge/PHP-8.1-purple)
+### Main skills:
+###
 
-## 🛠️ Bibliotecas e Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,nodejs,vercel,php,docker,mysql,laravel,postgre,jest,git,github,figma)](https://skillicons.dev">
+</p>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5-blueviolet)
-![jQuery](https://img.shields.io/badge/jQuery-3.5-orange)
+###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B70F5&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-## 🌟 Conceitos e Tecnologias
 
-- NextJS
-- API Rest
-- Jquery
-- Estrutura MVC
-- Solid
-- TailwindCSS
 
-## 📚 Aprendendo Atualmente
-
-Estou sempre disposto a aprender coisas novas. Atualmente, estou focando em:
-
-- 🚀 Aprofundar meus conhecimentos em Node.js e desenvolvimento interfaces com React.
-- 📦 Aprender mais sobre Docker e orquestração de contêineres com Kubernetes.
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bryanjulio&show_icons=true&theme=radical&rank_icon=github)
-
-Se você tiver alguma dúvida, sugestões ou gostaria de colaborar em algum projeto interessante, fique à vontade para entrar em contato! 😊
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=402E7A&height=120&section=footer"/>
